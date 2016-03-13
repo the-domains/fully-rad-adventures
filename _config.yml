@@ -1,0 +1,28 @@
+name: Fully Rad Adventures
+favicon: null
+layout_spectrum: 0.7241960775572807
+typography_spectrum: 0.15846495516598225
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.2785605217795819
+  lightness: 0.28557166550308466
+  saturation: 0.8719521965831518
+  rhythmicContrast: 0.30537167424336076
+purpose: []
